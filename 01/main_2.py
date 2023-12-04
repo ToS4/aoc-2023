@@ -1,6 +1,6 @@
 
 
-with open('example_2.txt') as file:
+with open('input.txt') as file:
 
     lines = [line.strip() for line in file]
 
@@ -35,6 +35,7 @@ with open('example_2.txt') as file:
         string = ""
 
         for char in line[::-1]:
+            
             if second != "":
                 string = ""
                 break
