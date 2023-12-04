@@ -1,0 +1,1 @@
+While my code might not be the most efficient or follow the most logical structure, I made a conscious effort to complete each day as quickly as possible. I didn't prioritize code structure or other details during this process.
