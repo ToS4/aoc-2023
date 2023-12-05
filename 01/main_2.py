@@ -52,6 +52,8 @@ with open('input.txt') as file:
                     if second == "":
                         second = str(i + 1)
 
+        print(first + second)
+
         sum += int(first + second)
 
     print(sum)
